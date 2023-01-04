@@ -1,4 +1,4 @@
-# cyPREAA-Bsico-v2
+# Cypress_Basic
 
 Sample project for the basic course of the talking about testing online school. 
 
